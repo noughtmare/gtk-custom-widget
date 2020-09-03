@@ -1,0 +1,10 @@
+/* Example of a CSS style sheet with a custom style property.
+ *
+ * The name of the style property must have its canonical form, i.e. characters
+ * other than ASCII letters, digits, and hyphens must be replaced by hyphens.
+*/
+
+#my-widget {
+  background-color: rgb(255,0,0);
+  color:            rgb(0,0,255);
+}
